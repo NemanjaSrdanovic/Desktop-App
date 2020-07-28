@@ -13,7 +13,7 @@ Die Aufgabe war es, eine hochwertige Softwarelösung zu entwickeln (einschließl
 ------------------------------
 ------------------------------
 
-How to review the Application?
+Wie kann die Implementierung getestet werden?
 
 
 

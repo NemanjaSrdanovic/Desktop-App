@@ -10,7 +10,14 @@ Ziel dieses Projekts war es, eine Kostenverfolgungsanwendung zum Verwalten und B
 
 Die Aufgabe war es, eine hochwertige Softwarelösung zu entwickeln (einschließlich eine grafische Benutzeroberfläche), die die Kundenanforderung erfüllt. Der Fokus war dabei vor allem auf dem sauberen und Strukturierten schreiben des Quellencodes und angemessener Anwendung von Design Patterns.
 
+------------------------------
+------------------------------
+
+How to review the Application?
 
 
 
-java -jar ExpenseTracker.jar
+Im Dokumentation Folder befindet sich das pdf File report_dead, welches alle notwendigen Informationen über das Projekt enthält. Zusätzlich kann der Code im implementation Folder analysiert werden. 
+
+
+Um die App zu starten, muss das .jar File aus dem jarFile Folder heruntergeladen werden und per Doppelklick oder über den command prompt mittels Befehl (java -jar ExpenseTracker.jar) gestartet werden.

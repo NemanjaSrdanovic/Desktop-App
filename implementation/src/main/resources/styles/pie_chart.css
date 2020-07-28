@@ -1,0 +1,11 @@
+
+
+.chart-pie.data0{
+    -fx-background-color: #6b9fff;
+    -fx-border-color: white;
+}
+
+.chart-pie.data1{
+    -fx-background-color: #ff8400;
+    -fx-border-color: white;
+}
